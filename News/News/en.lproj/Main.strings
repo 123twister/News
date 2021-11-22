@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "50J-3j-Z9D"; */
+"50J-3j-Z9D.text" = "Time";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "ED1-bT-oYr"; */
+"ED1-bT-oYr.text" = "Description";
+
+/* Class = "UINavigationItem"; title = "News"; ObjectID = "Hly-Po-p9z"; */
+"Hly-Po-p9z.title" = "News";
+
+/* Class = "UILabel"; text = "Heading"; ObjectID = "O5X-Ag-X82"; */
+"O5X-Ag-X82.text" = "Heading";
+
+/* Class = "UILabel"; text = "Author"; ObjectID = "oZF-jM-uGC"; */
+"oZF-jM-uGC.text" = "Author";
+
+/* Class = "UINavigationItem"; title = "News"; ObjectID = "xcE-qb-iQs"; */
+"xcE-qb-iQs.title" = "News";
